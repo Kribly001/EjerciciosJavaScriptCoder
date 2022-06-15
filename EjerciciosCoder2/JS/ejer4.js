@@ -1,3 +1,6 @@
+/*Escriba un programa en donde el usuario ingrese 3 notas,
+ calcule el promedio y si es mayor o igual a 4 le indique que está aprobado con un alert.*/
+
 alert("Ingrese sus notas");
 let nota1=prompt("Nota 1");
 let nota2=prompt("Nota 2");

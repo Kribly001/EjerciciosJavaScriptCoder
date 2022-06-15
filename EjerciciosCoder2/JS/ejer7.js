@@ -1,3 +1,9 @@
+/*Escriba un programa en donde se le pida al usuario ingresar el lugar a donde quiera viajar.Teniendo en cuenta estos valores:
+- Colombia: $40- México: $50- Brasil: $30- Uruguay: $20- Chile: $20- Ecuador: $30
+- Perú: $40- Estados Unidos: $50
+Mostrarle al usuario cuál sería el costo de viajar al lugar que escribió.
+NOTA: Tener en cuenta las mayúsculas y minúsculas al momento de ingresar el nombre del lugar*/
+
 let pais =prompt("Ingresa el nombre del pais a viajar")
 switch (pais) {
     case "Colombia":

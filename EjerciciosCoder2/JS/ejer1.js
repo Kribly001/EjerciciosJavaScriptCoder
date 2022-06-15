@@ -1,3 +1,5 @@
+/*Escriba un programa en donde el usuario ingrese 2 números e indique cuál es el mayor*/
+
 alert("Ingresa dos numeros y se detectara cual es el mayor");
 const numero1 = prompt("Ingresar numero 1");
 const numero2 = prompt("Ingresa numero 2");
